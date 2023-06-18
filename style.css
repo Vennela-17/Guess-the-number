@@ -1,0 +1,18 @@
+#m{
+    width:fit-content;
+    color:black;
+}
+.container{
+    margin: auto;
+    border:5px solid greenyellow;
+    background-color: white;
+    margin-top: 10%;
+    margin-left: 65%;
+    width: fit-content;
+    padding: 25px;
+}
+body{
+    background-image: url(https://allinpython.com/wp-content/uploads/2022/06/Guess-a-number.png);
+    background-repeat: no-repeat;
+    background-color: black;
+}
